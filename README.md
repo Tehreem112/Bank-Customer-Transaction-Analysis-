@@ -20,6 +20,11 @@ The dashboard highlights key KPIs, including total customers, active and inactiv
 These insights help business teams understand customer behavior, identify trends, and make informed decisions.
 
 
+
+<img src="<img width="914" height="502" alt="image" src="https://github.com/user-attachments/assets/5f91ff66-9599-4814-818e-b07879556e39" />
+" alt="Bank Analysis Dashboard" width="100%" />
+
+
 ## Tools & Techniques
 
 **Tools**
