@@ -21,8 +21,8 @@ These insights help business teams understand customer behavior, identify trends
 
 
 
-<img src="<img width="914" height="502" alt="image" src="https://github.com/user-attachments/assets/5f91ff66-9599-4814-818e-b07879556e39" />
-" alt="Bank Analysis Dashboard" width="100%" />
+<img src="<img width="914" height="502" alt="image" src="<img width="888" height="498" alt="image" src="https://github.com/user-attachments/assets/79269f20-212e-4424-9170-b052e53cd07f" />
+
 
 
 ## Tools & Techniques
