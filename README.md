@@ -21,7 +21,7 @@ These insights help business teams understand customer behavior, identify trends
 
 
 
-<img src="<img width="914" height="502" alt="image" src="<img width="888" height="498" alt="image" src="https://github.com/user-attachments/assets/79269f20-212e-4424-9170-b052e53cd07f" />
+<img width="888" height="498" alt="image" src="https://github.com/user-attachments/assets/79269f20-212e-4424-9170-b052e53cd07f" />
 
 
 
