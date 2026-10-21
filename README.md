@@ -25,7 +25,7 @@ These insights help business teams understand customer behavior, identify trends
 
 ## Data Model
 
-<img width="888" height="498" alt="image" src="<img width="951" height="489" alt="image" src="https://github.com/user-attachments/assets/b11a64f1-e59b-4721-a5f0-be8c09a9b010" />
+<img width="951" height="489" alt="image" src="https://github.com/user-attachments/assets/b11a64f1-e59b-4721-a5f0-be8c09a9b010" />
 
 
 ## Tools & Techniques
